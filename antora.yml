@@ -1,0 +1,6 @@
+name: innovative-procurement
+title: Innovative Public Procurement Guide
+version: 0.1
+start_page: ROOT:innovating.adoc
+nav:
+- modules/ROOT/nav.adoc
