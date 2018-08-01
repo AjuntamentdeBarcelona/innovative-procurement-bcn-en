@@ -25,7 +25,9 @@ include::procedures.adoc[]
 
 // (4/4) ADD BELOW THE LIST OF APPENDIXES. IMPORTANT: PUT A BLANK LINE BETWEEN
 // INCLUDES.
-[appendix]
+:allow-uri-read:
+
+include::https://raw.githubusercontent.com/AjuntamentdeBarcelona/guides-glossary/master/modules/ROOT/pages/glossary.adoc[]
 
 
 :leveloffset: -1

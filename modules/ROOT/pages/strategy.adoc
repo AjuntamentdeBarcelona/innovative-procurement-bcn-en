@@ -1,0 +1,114 @@
+= The strategy of procurement for innovation
+:experimental:
+:icons: font
+:page-partial:
+:source-highlighter: highlightjs
+
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+include::{partialsdir}/README.adoc[tag=metadata]
+
+== The strategy of procurement for innovation at Barcelona City Council
+
+The City Council would like to advantage of the benefits of procurement for innovation and has established a strategy for implementing a series of actions to ensure that its procurement processes promote innovation, so as to guarantee and increase the well-being of city residents.
+
+If we want to promote sustainable and inclusive growth in Barcelona, we have to learn to use all of the potential offered to us by regulations, keeping in mind that there will be changes made shortly, especially changes with regard to PPI included in directive 2014/24.
+
+Therefore, we are facing a paradigm shift and a change in organisational culture with regard to procurements.
+The doors are opening to new procurement methods with clear advantages, which we would like to incorporate as soon as possible.
+
+The City Council has approved *regulations* such as the decree on sustainable public procurement (S1/D/2017-1271 24/04) and its implementing guides so as to boost social, ethical, environmental and innovation measures.
+This is a clear shift towards this new vision of procurement.
+
+.The importance of market consultation
+TIP: The city of Detmold wanted to renovate its central bus station.
+It identified the potential to reduce pollution by using photocatalytic concrete thanks to information obtained from market consultation: the technical specifications stated that the concrete must have between 3% and 5% TiO2 in order to achieve an annual reduction in the emissions of nitric oxide, instead of a detailed list of materials.
+
+Other actions that the City Council plans to carry out include:
+
+*Planning tenders.* Planning procurements.
+It should be kept in mind that PPI is a new instrument for reaching our city’s goals.
+Therefore, PPI must be used in cases where the solution we need doesn’t exist (or not on a large scale) and when we have a significant procurement budget to be applied in the medium or long term that guarantees the scalability of solutions.
+We will have to examine on a case-by-case basis which areas should get involved in PPI and which is best positioned in the organisation to lead the process.
+
+This new model for contractual relations allows us to promote broader and more dynamic procurement and contract execution procedures, enabling us to even consider joint and aggregate demand procurement and execution processes with other administrations.
+We will have to analyse case by case whether the needs detected are ideally suited to a joint PPI, and whether it makes sense to establish a framework agreement so that other administrations can use the final results.
+
+.Networking
+TIP: Multidisciplinary teams. +
+Networking with the industry and universities. +
+Partnership and experience sharing networks. +
+Training for educators.
+
+*Determining the City Council areas most suited to launching a PPI.*
+The idea is to start to work with procurement in the areas that will have the greatest impact or which are suited to including innovation, and then share the lessons learned with other areas and standardise the use of PPI.
+Some prioritised areas include ICT, circular economy and health.
+
+.Selecting priority areas
+TIP: Framework contracts +
+Calculation of performance +
+Technology as an ally +
+New funding mechanisms +
+Consulting at all phases +
+
+*Dialogue with the market and business.*
+The current legal framework establishes the possibility to initiate a dialogue between the entities awarding contracts and the market prior to beginning the procurement process.
+The purpose is to understand and research the solutions offered by the market to cover the needs that are the subject of the contract before publishing the definitive specifications.
+This allows for a better and more in-depth understanding of the Administration’s needs, the promotion and inclusion of the latest innovations on the market, and greater collaboration among the parties.
+
+.Strategic management in the medium and long
+TIP: Different procurement strategies +
+Specialised teams +
+Life-cycle cost analysis +
+Risk management +
+Assessment of results +
+Quality control +
+Intellectual property rights
+
+*Including innovation measures in each contract.*
+The logic behind this idea is that innovation is not something static or something that can be summoned on schedule.
+Therefore, the City Council is committed to focusing on innovation in its contracts, to carrying out market consultations, and to increasing dialogue with industry.
+It aims to encourage researchers and companies to reflect on the city’s challenges, the well-being of people, to develop innovative even to consider centralised procurements before the process has been launched.
+
+*Technology as an ally.*
+The evolution of ICT and the generalised use of the Internet are transforming practically all sectors of society and our economy.
+Information and data have become one of the most valuable and prized goods, and they comprise what is called the _knowledge economy or digital economy._
+
+Cities like Barcelona, with initiatives like the Barcelona Digital City 2017-2020 Plan, are confronting the need to transform their ways of doing business and to look for new strategies based on technology and innovation which enable us to take advantage of the drive and development of this new economy, and which, at the same time, will provide great social benefits and more equitable and sustainable economic growth.
+
+The measures that must be followed and which will drive the new model of sustainable procurement will be organised into areas of action, such as ethics in data or technological sovereignty based on free software, open data and agile methodologies, which will be explained in detail in the City Council’s forthcoming guide on technology procurement that is currently being drafted.
+
+*Establish financing funds.* The City Council has several funds to finance its PPI projects.
+One of the most significant is the ordinary procurements budget itself, which, by adding measures for innovation, becomes one of the most important driving forces.
+
+The City Council also has structural funds (ERDF) available to support this process, and it is hoping to apply them to support ICT, the circular economy and health.
+
+There is also funding available through tender processes offered by the EU, the World Bank and others available for SMEs.
+Different international organisations are facilitating consulting and financial support, and are organising events and prizes to help contracting authorities develop PPI openly and in a non-discriminatory fashion, thereby facilitating access to small and medium enterprises.
+
+*Facilitate education and knowledge.*
+Each public procurements team will need to identify which tenders are suitable for the PPI process and which, therefore, will require new techniques and knowledge to detect innovation.
+This innovation can be found in different ways: by adding new technologies to our acquisitions, requesting goods that are the combination of a product and a service, or by introducing new ways of manufacturing an old product.
+In short, new skills will be needed on these teams to guide these new procurement processes.
+
+*Periodically select model initiatives and outreach.*
+There is a delicate balance between the responsibility of ensuring that the market knows exactly what the public requirements of a tender process are, and at the same time leaving enough space for new and different approaches to responding to these requirements.
+The City Council will work with initiatives that it thinks could serve as an example, with functional technical requirements based on performance, or which permit variation, two interesting ways of allowing for a certain amount of flexibility for bidding companies when they propose solutions.
+
+image::NewModelForRelations.png[image, align="center"]
+
+== The keys to success
+
+Based on the benchmark study carried out across Europe by the City Council, we have concluded that PPI should ideally be accompanied by planning and organisation measures that facilitate its successful implementation.
+These recommendations can be summed up by the four ‘M’s:
+
+.The keys to success: the four ‘M’s
+TIP: A *political mandate* at the highest level, with long-term planning of procurements with professional, stable teams.
+ +
+*Mentality:* Training for teams, open, flexible dialogue with the market, a favourable culture that is promoted across all areas.
+ +
+*Means* and professional human resources, experts in risk management who have experience in assessing projects, training, and a method for communicating best practices.
+ +
+*Measurement.* Mandatory, quantifiable objectives that are binding and monitored.

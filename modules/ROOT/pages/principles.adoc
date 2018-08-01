@@ -1,0 +1,255 @@
+= How to make this a reality. Principles and procedures
+
+== Where do we start?
+
+Public procurement for innovation is not a new procurement procedure, but rather a way of carrying out procurements in a collaborative way so as to respond to needs that do not currently have a solution on the market.
+
+This way of carrying out procurement with a strategic vision leads us to more conscientious planning of our procurement activity.
+It’s a new culture.
+We have to think with a holistic view of the entire process, from the detection of the need, market consultation and administrative preparation, to execution.
+However, we must also follow-up and assess the results.
+We must verify to what extent we were able to satisfy our needs, and we can scale solutions as we had planned.
+
+.Some actions to undertake
+TIP: Training +
+Planning, collaboration and trust +
+Creating networks Providing funding +
+Risk analysis +
+... and “more training” ...
+
+Every tender will have to be analysed on a case-by-case basis.
+What need do we have to cover?
+Is there already a solution on the market or do we have to come up with a new one?
+What would happen if there already is a solution, but it’s not being marketed?
+Can our provider become our partner?
+
+Therefore, we have to structure our procurements around four pillars.
+
+[cols=",,,",]
+|===
+|Pillar I  |Pillar II |Pillar III |Pillar IV
+|Detect needs
+|Involve different players
+|Begin the procurement process
+|Monitor and assess
+|Identify the challenge and a tender for innovation that has a clear, scalable impact.
+|Identify the players, prepare working meetings, advance notification of the invitation to tender, market consultations and guarantee equal treatment.
+|Choose the procedure, draft specifications, establish selection criteria, risk management, funding process, etc.
+
+Evaluate joint procurement processes.
+|Monitor the execution of the contract (the real change) ASSESSMENT OF THE PPI and lessons learnt.
+|===
+
+Let’s look at it step by step...
+
+== PILLAR I Detect needs
+
+Everyone has dozens of needs and problems to solve.
+We should define the objectives to be reached through public procurement from a broad range of perspectives: detecting your goals, your needs, and your challenges.
+A system must be applied to build a catalogue and inventory of these needs.
+Once the needs have been established, we must consider whether they are aligned with the objectives of the city and its residents, and whether they can be solved by simple processes or if we need to apply complex methods.
+In short, we have to establish categories and an order of priority.
+
+*START EARLY AND DECIDE IF PPI IS SUITABLE*
+
+Wanting to promote innovation should not lead us to create false needs.
+The detection of true needs will be the result of joint working sessions with the players who work with the good or service to be purchased, and with technical personnel, users, and suppliers.
+These sessions will be approached as a wish list of items to be achieved.
+Therefore, before drafting the specifications, we must determine whether the solution already exists and whether it requires the development of pilot trials or not.
+
+Example:
+
+Within the framework of PPI projects funded under the ERDF programme RIS3cat, the challenge the City Council is posing is research into solutions for paved surfaces that reduce the heat island effect, the generation of noise, and atmospheric pollution.
+
+From our internal working sessions, we have established that urban paved surfaces should contribute to making the city more comfortable for its residents, achieving a more natural feel, with characteristics similar to skin or clothing, and must be resistant to external demands, allowing for breathability, drainage, and maintaining a comfortable temperature.
+Skin has nerve endings (sensors) which allow us to feel cold or heat and which detect disease or damage with a change in colour and other symptoms (rashes, cuts, etc.).
+This has been the foundation for beginning a consultation with the market and determining if there are solutions that can meet this need.
+
+*Needs: the key*
+
+An assessment of needs must consider both current and future needs, and examine the organisation’s capacity to implement potential solutions.
+A needs assessment generates a better basis for open market consultations, as it provides essential information for the supplier entities and identifies any gaps.
+
+== PILLAR II: Involve different players
+
+Once our challenge is formulated, it is essential to have the help of professionals and consulting services who are knowledgeable about the state of the market so as to ensure that we have a full understanding of the latest advances.
+To that end, we must consult a wide variety of sources and work with multidisciplinary teams.
+We can turn to other departments or areas in the same organisation, to local or international conferences, universities, European innovation agencies and/or networks, and business, labor unions, social, and residential associations, etc.
+We have to decide which information we need to collect and share and which market entities we will need to contact.
+
+*MARKET CONSULTATION*
+
+In the process of organising our procurements, we may also carry out a market consultation.
+Launching a preliminary consultation with the market enables us to better understand the existing offer and, at the same time, makes it possible for us to involve the market in advance.
+
+These consultations are not binding for the Administration and under no circumstances should favour one set of players over another; therefore all of the information collected during the consultation must be public, the industrial and intellectual property rights of the providers must be protected, and the results must be reported.
+This dialogue can be initiated through an announcement prior to the invitation to tender.
+The essential steps to follow are:
+
+* Decide which information must be collected and shared, and which market entities must be contacted.
+* Choose the best format for the consultation and prepare the necessary human and material resources.
+* Maintain a record of the consultation process and ensure equal treatment.
+
+*ASSESSMENT OF SUSTAINABILITY AND INNOVATION IN THE RESULTS OF THE MARKET CONSULTATION*
+
+The City Council is developing a support methodology to facilitate the assessment of the ideas and solutions that we get from market consultations.
+The methodology used applies to any idea or solution and will allow us to prioritise them according to the degree of innovation and sustainability they contribute.
+
+The method has two phases: first, the innovation that the idea itself contributes is assessed, keeping in mind the circumstances of the environment, the proposing entity, and how well the idea aligns with the goals of Barcelona City Council.
+
+The second phase analyses the sustainability of the idea based on an analysis of how realistic, viable and beneficial its implementation is.
+
+.SPEA EINDHOVEN Case - The key word is “collaboration”
+TIP: Eindhoven City Council made a commitment to sustainable construction with a more comprehensive, holistic approach, an approach which makes it logical for the different parties involved to make an effort to achieve long-term quality and to satisfy the needs of all parties.
+Furthermore, investments in innovation and quality require a longer term to obtain a sufficient return on the investment thanks to economies of scale and cooperation.
+The duration of the project, therefore, extends to 2045.
+The “Natural Step” methodology is being applied to improve the sustainability of buildings
+_(http://www.eindhoven.nl/artikelen/Duurzaamheid-volgens-The-Natural-Step.htm)_
+
+== PILLAR III: Begin the procurement process
+
+*CHOOSING THE PROCEDURE: FACTORS TO CONSIDER*
+
+The first step in choosing the procedure is to ask the following questions:
+Will I need Research, Development and Innovation?
+Is there a solution, but not on a commercial scale?
+Do we have enough information to draft the technical specifications?
+We recommend a flexible use of procurement procedures and decisions made on a case-by-case basis.
+
+In fact, we can solve some of our challenges by acquiring innovation through the addition of *innovation clauses or measures in our regular procurement processes.*
+
+If we see that we must procure exclusively R&D services to develop a solution that is not available on the market, we will use a *Pre-commercial Public Procurement (PPP)* process, which will be subject to the general principles of public procurements.
+
+However, if the market is already prepared to respond to the needs identified in a reasonable period of time, a *Public Procurement of* *Innovative Technology (PPIT)* process, using the normal open or restricted procedures without negotiation, may be suitable.
+However, we have to be able to consider the use of an invitation to tender procedure with negotiation or a competitive dialogue process that will be able to provide us with innovative final commercial solutions that are new to the market.
+
+Competitive dialogue has proven to be useful in cases in which the contracting entities are not in a position to define the ideal means of satisfying their needs or assess the technical, financial or legal solutions that the market may offer.
+This situation may arise for any contract, but is particularly common with innovative projects, in the execution of large integrated transport infrastructure projects, or for large-scale networks or IT projects which require complex, structured funding.
+
+In addition to the ordinary procedures with or without dialogue and negotiation, the 2014 directives offer us a new procedure that was created specifically to promote innovation from demand, *association for innovation*.
+This procedure includes the possibility for performing research and procuring the first pilot.
+
+The Procedures chapter of this guide presents more information on the different options with regard to procedures and how to choose one.
+
+TIP: Collaboration +
+Commitment +
+Trust
+
+*CONSIDER AND LEARN TO MANAGE RISKS*
+
+Proper management of public projects necessarily includes risk identification and analysis.
+This step will be carried out during the project planning phase and will be repeated during the different phases of the public procurement process.
+Therefore, a wide-ranging group of players must be involved both when defining the procurement needs as well as when analysing risk.
+
+The new rules on procurement aim to facilitate cooperation between contracting authorities, which could encourage the sharing of risks and benefits to tackle innovative projects and group demand.
+Risk aversion could slow the efforts being invested in promoting PPI at the City Council.
+
+Many of the risks, although not all, can be managed with an appropriate choice of procurement procedure, an intellectual property strategy, and the appropriate contractual clauses.
+To reduce the risks associated with PPI or with a precommercial public procurement (PPP), a strategy that anticipates these challenges and allows for the appropriate planning and management must be established.
+Other organisations or experts who have developed these types of procedures may be consulted.
+The innovation procurement platform provides a forum for this purpose (see more information at _https://www.innovation-procurement.org_).
+
+Once the risks have been identified, there are several ways to manage them:
+
+*Implement measures that reduce the likelihood of issues arising.*
+For example, a way of reducing risks of the contracting entity is to include a contingency plan for the people who are going to manage the project, as well as properly plan the project and receive training on PPI.
+To reduce technological risks, sufficient time must be allowed to test the solution.
+To prevent getting stuck with just one supplier, the solution would be to create joint demand to increase acquisition volume, thereby increasing the appeal to the market, meaning there will be more entities interested.
+
+*Division or transfer of risk among the parties.*
+It is a good idea for risk to be put on the party that can best control it.
+Risk can also be divided into elements that can be distributed among the parties.
+
+*Avoid actions that increase risk.*
+At the end of the project, a follow-up study of the risks will be carried out to verify the accuracy of the estimated likelihood and impact.
+The lessons learned from this analysis will be used in future projects.
+
+.Example from the city of Detmold: photocatalytic concrete
+TIP: During the market consultation, the technical risks were assessed with regard to available research studies and manufacturer information.
+Visits to the factories were organised and different approaches to the products were compared.
+A sustainability analysis was carried out based on an estimation of a life span of at least 50 years.
+The results were sent to the planning team to determine which techniques were the most appropriate for the project.
+Finally, political approval was requested for all of the work, keeping in mind the additional estimated costs associated with the use of photocatalytic concrete.
+
+*INTELLECTUAL PROPERTY RIGHTS*
+
+PPI implies investing in making new ideas a reality, both on the part of the contracting authority as well as the part of the company providing the product or service.
+Everyone will want to maximise their investment, and this is generally done through intellectual and industrial property rights (IPR).
+The City Council must develop a strategy for IPR which considers the foreseeable uses of the product or service it is buying, so as to obtain the most relevant benefits from the innovation.
+
+For example, if a new design for recycling containers is developed within a waste management contract, what is better for the administration: to purchase the design or pay for a usage license?
+And in the case of rights to the design for the vehicles that collect these containers?
+When answering these questions, we must consider issues such as the Administration’s future capacity to change provider, or to what extent this design could be licensed to another potential group of users of the service.
+
+In some cases, to achieve these objectives, it will be sufficient to exchange information without an effective transfer of intellectual and/or industrial property rights.
+
+*FUNDING*
+
+We must have funding available for the initial procurement and to make provisions for the scaling up the solution if we find it to be satisfactory.
+
+*JOINT PROCUREMENT PROCESSES*
+
+This new model for contractual relations allows us to promote broader and more dynamic procurement procedures, enabling us to even consider joint and aggregate demand procurement processes with other administrations.
+We will have to analyse case by case whether the needs detected are ideally suited to a joint PPI, and whether it makes sense to establish a framework agreement so that other administrations can use the final results.
+
+*DRAFTING SPECIFICATIONS. MEASURES FOR INNOVATION*
+
+In general, when drafting the tender specifications for procuring works, goods and services, measures to strengthen innovation will be included through the establishing functional technical specifications, with award criteria that promote improvements articulated as innovation proposals or any other measure which promotes innovation related to developing economic, social and environmental sustainability.
+
+How are we going to do this?
+
+* *By establishing technical terms* that are aligned with achieving established objectives.
+If we establish the terms as mandatory, this means that the market can respond to them without further preparations.
+However, these technical terms could restrict the market because they are impossible to complete before the dead-line for submitting proposals; alternatively, we could give the market time to prepare: once again, we highlight the planning of public procurement.
+We can also indicate “optional” technical terms, or terms which involve voluntary improvements, which do not put the result of the tender in danger.
+We could also convey our functional objectives as technical terms that do not state specifically what we want, but rather describe the characteristics of what we want.
+
+* *By establishing technical competence criteria* which set out the technical means and quality processes within companies that indicate that they will be capable of handling offers with elements of innovation.
+
+* *By setting award criteria* that value innovative solutions, new ideas that offer a solution to the requirements of the technical terms, which now become the award criteria themselves.
+This is the time to score and highlight the companies that make an effort to go beyond their ordinary offers and demonstrate that they have studied our challenges and which provide technological, organisational, or procedural solutions, or any combination thereof, and who show a commitment to satisfying those results.
+
+* *By making the price conditional on the inclusion of innovation.*
+Including innovative results can be an economic incentive in the contract execution phase, such that a part of the price will be paid depending on whether the company achieves results that involve the inclusion of innovative functional objectives.
+
+* *By strengthening specialised outsourcing* for the parts of the contract that require the participation of specialised enterprising companies.
+
+If what we need is not only innovative changes in an ordinary contract, but rather the creation of a true alliance of companies in order to develop a new service, this is now an “innovation partnership”.
+The project is created as a public/private collaboration to design, produce and acquire new services, goods or activities which do not exist on the market.
+If this type of association is going to be attempted, we recommend first getting in touch with the procurement coordination department, who will help you design the project.
+
+The assessment of offers must be objective, grounded and reasonable.
+Therefore, we must design the assessment criteria for awarding contracts, and we must explain them clearly, identifying the results required in the most understandable, specific form possible.
+
+Innovation is a commitment to sustainable development in support of efficiency in providing public services to citizens.
+However, they cannot be imaginative ideas that are impossible to implement.
+We must drive the market and guide it towards our needs, not diminish our needs because of the short-term limitations or profit objectives of certain companies.
+
+== PILLAR IV: monitor and assess
+
+*CONTRACT EXECUTION*
+
+The contract execution phase is essential.
+Here, all of the prior procedures carried out and good preparatory work will become evident.
+
+However, we must understand that in these procedures, procurement does not end with the award of contract.
+Instead, we must establish a system to monitor and oversee execution by the contractor company and to manage collaboration between the City Council and the contractor to correctly implement the contract.
+
+*CONTRACT EFFICIENCY*
+
+A useful indicator to assess results is the efficiency of the contract.
+We must bear in mind the performance quotient in our contracts between the performance obtained as compared to the price we pay, and whether this quotient is being met or not.
+
+There will also be periodic assessments of results for elements considered to be substantial, such as:
+
+* Whether the innovation satisfies the need posed at the beginning, while respecting established social and environmental criteria.
+* What the added value of the innovation is in terms of security, functionality, costs and social efficiency.
+* Can the innovation be implemented on a large scale?
+
+For longer and more established terms, the City Council should also assess the application of the PPI policy strategy.
+We must verify if the objectives are being followed and achieved.
+For example, we can evaluate if there is enough room for innovation in the contracts and how barriers to innovation are being removed.
+
+*SCALING THE SOLUTION*
+
+Once the solution has been applied, it is important to carry out an objective assessment of the results obtained, the viability of scaling the solution and increasing the expected impact, as well as its sustainability.

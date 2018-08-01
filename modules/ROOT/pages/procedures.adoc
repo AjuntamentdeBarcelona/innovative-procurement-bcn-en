@@ -1,0 +1,74 @@
+= Procedures
+
+== Regular procedures driving procurement for innovation
+
+Within regular procurement procedures, the 2014 public procurement regulation and the law of public sector contracts offers multiple “pro-innovation” measures.
+
+Of note is the option to carry out preliminary market consultations.
+The ability to take environmental and social factors into consideration during different phases of the procurement process and the use of life-cycle cost calculations have a more solid legal foundation.
+
+Innovative solutions can be promoted which can be awarded more points given the economic and sustainability benefits they will have in the long term.
+Similarly, the application of functional or results-based specifications give companies more room to offer innovative proposals.
+
+Furthermore, some modifications have been made to the selection procedures and documentation requirements which aim to ensure better access for SMEs (many of which are very innovative) to public procurement procedures.
+
+New cross-border joint procurement rules will allow purchasing entities from different member states to make joint purchases.
+The aggregation of demand from different member states will encourage the distribution of the risks and benefits of innovative projects and will group demand.
+Finally, and perhaps most importantly: the application of new European regulations offers us the opportunity to assess public procurement from a strategic perspective and to find the best way to achieve innovation and other objectives.
+
+On top of all of this, we are also increasing support for electronic systems which contribute to advances towards electronic procurement so as to promote innovation in public procurement.
+
+== European directives
+
+Beyond the means to be used in traditional procedures, the most recent amendment to the European directives revised the existing procedures and added some new procedures with the aim of supporting innovation from demand, as we will see below.
+
+The scope of the directives includes some procedures that are especially relevant to PPI:
+
+*COMPETITIVE DIALOGUE*
+
+This procedure has been simplified in the new rules.
+It is normally used in large, complex projects in which the technical specifications cannot be defined in advance.
+
+For example, when the contract awarding entities are not in a position to define the ideal means for satisfying their needs or assessing the solutions that the market has to offer.
+It can also be used when the needs of the purchasing entity cannot be satisfied without adapting the solutions currently available, or if their needs involve designing or creating innovative solutions.
+And also used when the contract cannot be awarded without prior negotiation due to its complexity, financial or legal structure, or because of the risks associated therewith.
+
+The bidding companies accepted to the dialogue process will submit a descriptive document, and there may be one or several rounds of dialogue.
+General ideas become more specific during this dialogue phase.
+When the purchasing authority closes the dialogue, these companies can submit an offer based on their own solution to the needs defined by the purchasing authority.
+In the competitive dialogue procedure, any economic operator can submit a participation request, but only those operators invited can participate in the dialogue.
+
+*INVITATION TO TENDER PROCEDURE WITH NEGOTIATION*
+
+In this case, the objective is to procure works, services or supplies that include elements of adaptation, design, innovation, or other characteristics which make awarding the contract without prior negotiation unsuitable.
+Unlike in the competitive dialogue method we saw above, here the purchasing authority must specify the characteristics of the goods or services to be procured from the outset.
+
+This method can be used under the same circumstances as those described above for competitive dialogue, i.e., when adaptation, design or innovation are necessary, when the contract cannot be awarded without prior negotiation due to risks or complexity, when the technical specifications cannot be defined with sufficient precision, or when only irregular or unacceptable offers have been submitted during a prior procedure.
+This possibility has been implemented in the 2014 directives and it replaces the negotiated procedure with prior publication.
+
+In the “invitation to tender procedure with negotiation”, any economic operator can submit a participation request, but only those economic operators who receive an invitation after the information they presented has been assessed may submit an initial bid, which will be the basis for subsequent negotiations.
+
+*A NEW PROCEDURE HAS BEEN CREATED: THE INNOVATION PARTNERSHIP*
+
+This procedure is for cases in which an innovative solution that is not yet available on the market is required.
+The purchasing authority decides to establish an innovation partnership with one or several players who will separately carry out R&D activity with the goal of negotiating a new innovative solution during the tender procedure.
+
+Finally, in specific cases and circumstances, purchasing authorities may award public contracts through a negotiated procedure without publishing prior notification of an invitation to tender.
+
+== Other
+
+Beyond the scope of the directives, there is a procedure that could give rise to public procurements for innovation.
+This is pre-commercial public procurement (PPP), which has historically been the least popular, but has great potential.
+If we need to procure R&D services, including prototype creation phases or initial production tests, this is the best way forward.
+
+PPP can include the procurement of limited prototypes and/or the development of product tests, but it does not include the purchase of large quantities of final solutions in the commercial phase; nor does it need to involve State aid.
+Therefore, the benefit derived from the R&D services purchased will not be solely for the use of the purchasing authority.
+
+Although it is not included in regulations, PPP must be executed in an impartial, open, transparent and competitive manner, so that the R&D services are purchased at market price.
+
+.Thalea II
+TIP: THALEA II is the first PPI that is following a PPP in Health-ICT for intensive care units.
+Its participants include the Corporación Sanitaria Parc Taulí of Sabadell.
+It will implement remote sensing and telecare solutions to mitigate the negative impacts of an ageing society and labour force.
+Reflecting on the experience acquired through THALEA’s PPP, this PPI process will acquire and implement a promising innovative technology that will help save more lives and increase patients’ quality of life.
+For further information: _http://www.thalea-pcp.eu/_

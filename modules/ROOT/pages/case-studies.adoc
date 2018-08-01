@@ -1,0 +1,185 @@
+= Case studies
+:experimental:
+:icons: font
+:page-partial:
+:source-highlighter: highlightjs
+
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+include::{partialsdir}/README.adoc[tag=metadata]
+
+== The international European SPEA project
+
+image:image1.jpeg[SPEA logo,width=109,height=93]
+An early experience for Barcelona City Council leading a PPI project is from 2012 for the European SPEA projectfootnote:[_http://www.speaproject.eu/rcs_gene/extra/SPEA_brochure.pdf_], Smart Procurement European Alliance.
+
+*THE CHALLENGE*
+
+The challenge of the project was to promote and strengthen public procurement in the field of energy efficiency for municipal buildings in the partner cities, promoting innovative solutions for public services to improve their quality and efficiency, and boosting opportunities for SMEs to participate in their public procurement.
+
+*THE PROJECT’S OBJECTIVES INCLUDED*
+
+Develop the methodology for the participation of all key players in an innovative public procurement process.
+Perform an analysis in terms of technologies and real requirements, followed by an analysis of needs, as well as activities aimed at increasing the participation of SMEs in the process ending in the purchase of an innovative solution.
+
+* Exchange of knowledge among the public bodies that participate in the procurement of innovative solutions in the field of energy efficiency and renewable energy.
+
+* Identify the groups of purchasing and providing entities.
+
+* Create supply and demand capacities (purchasing entities and companies), as well as create groups of purchasing entities dedicated to preparing for the procurement of innovative solutions.
+
+* Design and execute a procurement process for these new solutions, improving the capacity of (public) procurement authorities and SMEs with regard to the procurement of innovation.
+Encourage cooperation with other essential players to implement innovative procurement at local and European level.
+
+* Formulate recommendations for the EU with regard to organisational barriers to a joint/coordinated procurement process.
+Share the procurement results with the players in charge of creating market policy.
+
+* Create a critical mass of purchasing entities that can overcome the fragmentation of public demand in Europe through joint and coordinated procurement of energy efficiency solutions based on the experiences of the three cities coordinating the project.
+
+.The cities
+TIP: The project consists of a consortium of three cities: Barcelona (project leader), Birmingham and Eindhoven.
+
+*THE BARCELONA CITY COUNCIL SOLUTION*
+
+In the case of Barcelona City Council, an innovative project was chosen for energy monitoring in libraries and data analysis, which was applied to a total of 10 libraries in a pilot programme.
+
+A market consultation was carried out, and the General-Services Directorate, the Directorate of Logistics and Maintenance, the Energy Agency and Barcelona Activa joined forces and worked together.
+This enriched the process, as the vision of the purchasing entities was broadened.
+
+A PIN (Preliminary Information Notice) was carried out, in which about 100 companies offered submissions, and which was used to prepare an “energy efficiency solutions bank” and a list of innovative solutions that were likely to be of use.
+
+After a phase exploring the project’s technical and financial requirements, a tender for projects was launched in which the companies could use the solutions bank.
+An international panel of judges assessed the proposals and chose three finalists, with whom a negotiation process was opened in the format of round-table discussions.
+The contract award committee proposed the winning entity and the contract was awarded in June 2015 for a four-year project.
+As of 2016, the solution had been implemented in 10 libraries.
+Once the suitability of the proposal has been assessed, in the near future we are planning to scale the solution to other city libraries.
+
+This project is acting as the basis for the challenge that the City Council is currently posing within the framework of PPI projects funded under the ERDF RIS3cat programme.
+In this challenge, the City Council is considering the maintenance of all municipal buildings, not just in terms of one building’s efficiency, but rather from a global perspective of all of these buildings.
+
+== The city of Ghent: cleaning services
+
+image::image2.jpeg[Ghent sight,width=612,height=215]
+
+*THE CHALLENGE*
+
+The Department of Cleaning and Services of Ghent City Council (Belgium) is in charge of cleaning the city’s 340 municipal facilities, nurseries, police stations, fire stations, schools and administrative offices.
+In its new contract, Ghent City Council requested an increase in market capacity to provide environmentally sustainable and socially responsible cleaning services.
+It also wanted to introduce probiotic cleaning products, which are designed to have a lower impact on the environment and human health.
+Due to the lack of independent studies establishing the effectiveness and benefits of these products, it considered a test period to be necessary.
+
+*MARKET CONSULTATION*
+
+The city carried out a market consultation to identify the companies interested in participating in this test period.
+The aim of the test was to compare probiotic cleaning products to traditional products.
+
+The City Council tried to involve the largest number of companies possible.
+This was an important point of comparison, as substantial differences between the results from different participants would mean that further research was necessary.
+An external quality control company was included to guarantee objectivity.
+
+Four companies participated in the pilot programme over two months.
+Lab tests were developed to measure the levels of fungus and bacteria with regard to the baseline measurements in each location.
+The individuals who use the cleaning products were actively involved.
+
+In general, the professional cleaning personnel were satisfied with the products.
+In general, it was concluded that the products were just as effective as traditional products.
+Some users noted beneficial effects to their skin.
+Positive comments were also received on the smell and ease of use of the products.
+
+*PROCUREMENT*
+
+The invitation to tender was published in March 2013 through an open procedure.
+Five companies submitted bids.
+The contract was divided into three batches, which were awarded to two different cleaning companies.
+The bidding companies responded to the needs of the purchasing authority, and some went even further, offering innovative products with independent sustainability certifications.
+The contract was awarded to the most economically advantageous offer, with 10% of the points assigned to environmental performance.
+
+The contract also included a requirement regarding social economy companies, and the specifications stated that some activities such as sweeping school playgrounds and weeding had to be carried out by these types of companies.
+
+The risks related to the project were real and significant, as the success of the products depended on a variety of factors, such as location, type of mess, the materials and the way in which the professional cleaning personnel applied the products.
+Probiotic cleaning products are used differently than traditional products and they require cleaning professionals to adopt new work habits.
+The contract promotes the use of probiotic products, but the awardee company is free to choose its products, a fact which leaves the service provider enough space to propose other innovative solutions that fall within the City Council’s objectives.
+
+|===
+|*“Innovative procurement was a way to improve the quality of life of the people involved in providing our services, while at the same time achieving greater added value.*
+*The public sector can also support innovative companies, providing them with a platform for their products”.* -
+_Tamara Bruning, Ghent City Council_
+|===
+
+== The city of Detmold: concrete to reduce air pollution
+
+image::image3.jpeg[Detmold photo,width=623,height=247]
+
+*THE CHALLENGE*
+
+The city of Detmold and its busy central bus station is used by 2.3 million passengers each year.
+With the aim of improving the flow of traffic and accessibility, about 800 buses pass through the station on business days, and the station is used by a large number of school-aged children.
+To carry out the renovation, the city’s department of public works identified the potential to reduce air pollution in the area by using photocatalytic concrete on the pavements and road surfaces.
+
+*PROJECT DEVELOPMENT*
+
+After an in-depth study, a cross-departmental planning group was formed which included traffic planning managers, concrete technicians, geological engineers, the university, faculty, the audit department, disability officers and political representatives.
+The planning group also held conversations with the city’s bus company, Stadtverkehr Detmold GmbH (SVD).
+
+The German Federal Environmental Foundation (DBU) supported the project through the Department of Civil Engineering of the University of East Westphalia-Lippe.
+The university researched concrete with photocatalytic technology for a year and also performed a scientific follow-up test.
+Additional help was also received from the Westphalia-Lippe transport association and the North Rhine-Westphalia Urban Development Fund.
+Cooperation for the project worked smoothly, despite the fact that the total time required was longer than a traditional project.
+
+Project planning began in January 2011 and the invitations to tender were launched in March 2012.
+The contract was awarded in 2012 and ended in August 2013.
+
+*MARKET CONSULTATION*
+
+Several manufacturers were asked to send brochures and information on their photo-catalytic concrete with non-pollutant capacity.
+They were invited separately to a round of discussions with the project’s group to talk about solutions and potential applications to meet Detmold’s needs.
+The broad range of conditions and materials that affect concrete require a case-by-case approach to ensure the most suitable application of the technology.
+Around three months were required to obtain the information, expert opinions, and communication required on the installation of this innovative product.
+The contribution of the engineering school was particularly valuable during this phase.
+The technical risks were assessed with regard to what it had published in research reports and the manufacturer specifications.
+Visits were carried out to the production facilities and the approaches of the different manufacturers were compared.
+A sustainability analysis was carried out in accordance with the expected life span of at least 50 years.
+The results were presented to the planning group to see which techniques were the most suitable for the project.
+Political approval was given, keeping in mind the additional estimated costs associated with the use of photocatalytic concrete.
+
+*PROCUREMENT PROCEDURE*
+
+An open procedure was used and six offers were received from contractors.
+The specifications were formulated in neutral terms so that different production entities could provide the material; the Detmold internal audit services were very involved to ensure the transparency of the process.
+Based on the information received during the market consultation, the documents for the invitation to tender specified a TiO2 content between 3% and 5%.
+There were follow-up questions to the companies that submitted bids to see if they could really meet the criteria.
+Some companies presented solutions with conventional concrete; these solutions were 3.6% cheaper on average.
+A test surface was established to determine the best way to work with the material on site.
+The samples were evaluated as part of the tender and contract award process.
+
+*RESULT AND OTHER APPLICATIONS*
+
+The awardee company offered 5% TiO2 content in its concrete.
+
+“Based on the daily average of 800 buses in the station, an annual reduction of nitric oxide emissions of up to 40% is expected”, said Thomas Lammering, assistant to the head of the public works department.
+The additional cost of using photocatalytic concrete was relatively low, and added 90,000 euros within a total project cost of 2.8 million euros.
+The station design included accessibility for people with pushchairs or people with reduced mobility who use wheelchairs, and it also has guide systems for people with visual impairments.
+
+By participating in the photocatalytic materials process, the companies involved also benefited.
+They increased their competence and competitiveness in the application of innovative construction materials, as well as their knowledge of materials science and process engineering.
+A growing number of concrete suppliers in Europe and internationally are capable of supplying photocatalytic concrete to satisfy the needs of public and private construction projects.
+
+== Generalitat [national government] of Catalonia: sustainable paved surfaces
+
+image::image4.jpeg[Road,width=620,height=227]
+
+*THE CHALLENGE*
+
+The Directorate General (DG) of Mobility Infrastructure of the Generalitat of Catalonia wants to make the sectors involved in the design, production, construction and maintenance of road surfaces in Catalonia more competitive by introducing new methods and procedures that will make them more economically and environmentally sustainable, and which will contribute new added value to their basic functions of road safety.
+
+*MARKET CONSULTATION*
+
+In order to come to a complete understanding of the subsequent invitation to tender, the Generalitat facilitated prior information on the tender process and its needs with the aim of achieving the broadest possible participation of the interested parties, understanding the technical characteristics and quality of the solutions proposed by the market and, finally, enabling the interested players to formulate comments and suggestions.
+
+The DG of Mobility Infrastructure of the Generalitat of Catalonia also stated that the consultation was not binding for contractual purposes.
+
+*PROCUREMENT*
+
+At the time this guide was written, the DG of Infrastructure was in the process of drafting the specifications for the invitation to tender.
