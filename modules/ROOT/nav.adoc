@@ -3,4 +3,4 @@
 * xref:principles.adoc[How to make this a reality. Principles and procedures]
 * xref:case-studies.adoc[Case studies]
 * xref:procedures.adoc[Procedures]
-//* https://raw.githubusercontent.com/AjuntamentdeBarcelona/guides-glossary/master/modules/ROOT/pages/glossary.adoc[Glossary]
+* xref:glossary:ROOT:glossary.adoc[Glossary]
