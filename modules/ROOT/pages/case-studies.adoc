@@ -12,7 +12,7 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 == The international European SPEA project
 
-image:image1.jpeg[SPEA logo,width=109,height=93]
+image::spea.jpeg[SPEA logo,width=624,height=245]
 An early experience for Barcelona City Council leading a PPI project is from 2012 for the European SPEA projectfootnote:[_http://www.speaproject.eu/rcs_gene/extra/SPEA_brochure.pdf_], Smart Procurement European Alliance.
 
 *THE CHALLENGE*
