@@ -11,11 +11,14 @@ However, we must also follow-up and assess the results.
 We must verify to what extent we were able to satisfy our needs, and we can scale solutions as we had planned.
 
 .Some actions to undertake
-TIP: Training +
-Planning, collaboration and trust +
-Creating networks Providing funding +
-Risk analysis +
-... and “more training” ...
+[TIP]
+====
+* Training
+* Planning, collaboration and trust
+* Creating networks Providing funding
+* Risk analysis
+* ... and “more training” ...
+====
 
 Every tender will have to be analysed on a case-by-case basis.
 What need do we have to cover?
@@ -131,9 +134,12 @@ This procedure includes the possibility for performing research and procuring th
 
 The Procedures chapter of this guide presents more information on the different options with regard to procedures and how to choose one.
 
-TIP: Collaboration +
-Commitment +
-Trust
+[TIP]
+====
+* Collaboration
+* Commitment
+* Trust
+====
 
 *CONSIDER AND LEARN TO MANAGE RISKS*
 

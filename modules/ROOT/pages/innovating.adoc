@@ -35,12 +35,17 @@ Thus, the City Council is positioning itself as a driver of innovation in the ma
 Other key elements of PPI are risk, cost efficiency, collaboration between entities, and ensuring that benefits are shared.
 
 .Main benefits of PPI:
-TIP: *FOR CITIZENS* +
+[TIP]
+====
+* *FOR CITIZENS.*
 Improves public services by including innovative goods or services that better and more efficiently serve the needs of all city residents. +
-*FOR INDUSTRY* +
+
+* *FOR INDUSTRY.*
 Supports innovative companies and SMEs that promote the City Council’s values on social, environmental and technological matters, driving development and internationalisation, as they build off of access to the local public market as their first flagship customer. +
-*FOR PUBLIC ADMINISTRATION* +
+
+* *FOR PUBLIC ADMINISTRATION.*
 Promotes a cultural change within the Administration, shifting it towards more innovative practices and attaining economic and technical efficiency.
+====
 
 == Public procurement with strategic vision
 
@@ -97,20 +102,26 @@ TIP: Barcelona is committed to innovation in the broader sense, and has decided 
 
 The answer is yes, by including the option for variations and measures that encourage innovation in contracts and by modifying the procurement process (planning, prior consultations, etc.).
 
-TIP: Barcelona proposes a broad definition of promoting innovation in its strategy.
- +
-It sees public procurement for innovation (PPI) as public procurement which makes use of the innovative solutions (products, technologies, processes) that arise from the procurement process to promote a greater impact on sustainable and inclusive growth in society.
- +
-Barcelona also encourages the inclusion of innovation in its regular procurements, with the same goals.
+[TIP]
+====
+* Barcelona proposes a broad definition of promoting innovation in its strategy.
+
+* It sees public procurement for innovation (PPI) as public procurement which makes use of the innovative solutions (products, technologies, processes) that arise from the procurement process to promote a greater impact on sustainable and inclusive growth in society.
+
+* Barcelona also encourages the inclusion of innovation in its regular procurements, with the same goals.
+====
 
 .We already have experience
-TIP: The BCN Open Challenge meant that, for the first time, the City Council itself became the customer and purchaser of innovative solutions, closing the circle of “urban labs” and combining funding and the level of commitment of public procurement in the programme to solve challenges.
+[TIP]
+====
+The BCN Open Challenge meant that, for the first time, the City Council itself became the customer and purchaser of innovative solutions, closing the circle of “urban labs” and combining funding and the level of commitment of public procurement in the programme to solve challenges.
 However, the BCN Open Challenge was also established with the desire to reach any individual, professional, company, or group that had an applicable innovative idea, regardless of their nature or experience, thereby ensuring opportunities for everyone with a capacity to innovate.
- +
+
 For this reason, the nature of the companies chosen was very diverse.
 This is a particular point of pride for us, as the winners included both already-formed small and medium enterprises as well as start-ups created expressly to participate in this call for proposals, a temporary joint venture, and even a technological centre, which demonstrates the capacity of this programme to promote new, innovative business forms and collaboration among businesses.
- +
+
 _http://www.barcelonactiva.cat/barcelonactiva/es/novedades-y-prensa/novetats/2014/05/09/noticia112879.jsp_
+====
 
 == Who is this guide for?
 
@@ -125,10 +136,13 @@ Article one of this Decree establishes the desire to boost social, environmental
 The decree establishes a guarantee for the labour, social, and citizen’s rights of the people who execute the public contract and of the recipients of said contract, and boosts actions for a circular economy and improving the economic activity of small and medium enterprises.
 
 .Article 6. Innovation
-TIP: 6.1. Article 2.1.22 of Directive 24/2014 on public procurement defines innovation as “the implementation of a new or significantly improved product, service or process, including but not limited to production, building or construction processes, a new marketing method, or a new organisational method in business practices, workplace organisation or external relations inter alia with the purpose of helping to solve societal challenges or to support the Europe 2020 strategy for smart, sustainable and inclusive growth...”.
- +
+[TIP]
+====
+6.1. Article 2.1.22 of Directive 24/2014 on public procurement defines innovation as “the implementation of a new or significantly improved product, service or process, including but not limited to production, building or construction processes, a new marketing method, or a new organisational method in business practices, workplace organisation or external relations inter alia with the purpose of helping to solve societal challenges or to support the Europe 2020 strategy for smart, sustainable and inclusive growth...”.
+
 6.2. Barcelona City Council will drive public procurement processes for innovation with the aim of promoting research and the development of ideas and new technologies that will assist its work for citizens when said ideas and technologies are not available in the market.
- +
+
 6.3. In general, when procuring works, goods and services, measures to strengthen innovation will be included through the establishment of functional technical specifications, award criteria that promote improvements articulated as innovation proposals or any other measure which promotes innovation related to developing economic, social and environmental sustainability.
- +
+
 _Mayoral Decree on sustainable public procurement (S1/D/2017-1271 of 24 April)_
+====

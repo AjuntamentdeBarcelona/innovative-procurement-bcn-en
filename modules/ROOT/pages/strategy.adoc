@@ -37,21 +37,27 @@ This new model for contractual relations allows us to promote broader and more d
 We will have to analyse case by case whether the needs detected are ideally suited to a joint PPI, and whether it makes sense to establish a framework agreement so that other administrations can use the final results.
 
 .Networking
-TIP: Multidisciplinary teams. +
-Networking with the industry and universities. +
-Partnership and experience sharing networks. +
-Training for educators.
+[TIP]
+====
+* Multidisciplinary teams.
+* Networking with the industry and universities.
+* Partnership and experience sharing networks.
+* Training for educators.
+====
 
 *Determining the City Council areas most suited to launching a PPI.*
 The idea is to start to work with procurement in the areas that will have the greatest impact or which are suited to including innovation, and then share the lessons learned with other areas and standardise the use of PPI.
 Some prioritised areas include ICT, circular economy and health.
 
 .Selecting priority areas
-TIP: Framework contracts +
-Calculation of performance +
-Technology as an ally +
-New funding mechanisms +
-Consulting at all phases +
+[TIP]
+====
+* Framework contracts
+* Calculation of performance
+* Technology as an ally
+* New funding mechanisms
+* Consulting at all phases
+====
 
 *Dialogue with the market and business.*
 The current legal framework establishes the possibility to initiate a dialogue between the entities awarding contracts and the market prior to beginning the procurement process.
@@ -59,13 +65,16 @@ The purpose is to understand and research the solutions offered by the market to
 This allows for a better and more in-depth understanding of the Administration’s needs, the promotion and inclusion of the latest innovations on the market, and greater collaboration among the parties.
 
 .Strategic management in the medium and long
-TIP: Different procurement strategies +
-Specialised teams +
-Life-cycle cost analysis +
-Risk management +
-Assessment of results +
-Quality control +
-Intellectual property rights
+[TIP]
+====
+* Different procurement strategies
+* Specialised teams
+* Life-cycle cost analysis
+* Risk management
+* Assessment of results
+* Quality control
+* Intellectual property rights
+====
 
 *Including innovation measures in each contract.*
 The logic behind this idea is that innovation is not something static or something that can be summoned on schedule.
@@ -105,10 +114,10 @@ Based on the benchmark study carried out across Europe by the City Council, we h
 These recommendations can be summed up by the four ‘M’s:
 
 .The keys to success: the four ‘M’s
-TIP: A *political mandate* at the highest level, with long-term planning of procurements with professional, stable teams.
- +
-*Mentality:* Training for teams, open, flexible dialogue with the market, a favourable culture that is promoted across all areas.
- +
-*Means* and professional human resources, experts in risk management who have experience in assessing projects, training, and a method for communicating best practices.
- +
-*Measurement.* Mandatory, quantifiable objectives that are binding and monitored.
+[TIP]
+====
+* A *political mandate* at the highest level, with long-term planning of procurements with professional, stable teams.
+* *Mentality:* Training for teams, open, flexible dialogue with the market, a favourable culture that is promoted across all areas.
+* *Means* and professional human resources, experts in risk management who have experience in assessing projects, training, and a method for communicating best practices.
+* *Measurement.* Mandatory, quantifiable objectives that are binding and monitored.
+====
