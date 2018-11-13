@@ -1,4 +1,8 @@
 = Innovating through procurements at Barcelona City Council
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
 
 == Background
 

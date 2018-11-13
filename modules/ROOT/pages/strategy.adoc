@@ -1,13 +1,7 @@
 = The strategy of procurement for innovation
-:experimental:
-:icons: font
-:page-partial:
-:source-highlighter: highlightjs
-
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
-
 include::{partialsdir}/README.adoc[tag=metadata]
 
 == The strategy of procurement for innovation at Barcelona City Council
