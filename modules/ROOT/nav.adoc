@@ -1,6 +1,15 @@
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+.$$MAIN
 * xref:innovating.adoc[Innovating through procurements at Barcelona city council]
 * xref:strategy.adoc[The strategy of procurement for innovation]
 * xref:principles.adoc[How to make this a reality. Principles and procedures]
 * xref:case-studies.adoc[Case studies]
 * xref:procedures.adoc[Procedures]
-// * xref:glossary:ROOT:glossary.adoc[Glossary]
+
+.$$BOTTOM
+* xref:{lang}/glossary:ROOT:glossary.adoc[Guides glossary]
+* link:{attachmentsdir}/barcelona_innovative_procurement_{revnumber}.{lang}.pdf[Download PDF]
