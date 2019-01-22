@@ -1,0 +1,44 @@
+= {doctitle}
+include::{partialsdir}/README.adoc[tag=metadata]
+:doctitle: {_title}
+:page-layout: pdf
+:toc: macro
+:revdate: {localdate}
+
+[.pdf-authors-version]
+--
+[.pdf-authors]
+_Authors_: {authors}.
+
+// [.pdf-authors]
+// _Reviewers_: {_reviewers}.
+
+[.pdf-version]
+v{revnumber}, {revdate}
+--
+
+:toclevels: 3
+toc::[]
+
+:leveloffset: +1
+
+:!sectnums:
+
+// Non-numbered sections here
+
+:sectnums:
+
+include::innovating.adoc[]
+
+include::strategy.adoc[]
+
+include::principles.adoc[]
+
+include::case-studies.adoc[]
+
+include::procedures.adoc[]
+
+:sectnums!:
+
+[.discrete.page-end-notes]
+= End notes
