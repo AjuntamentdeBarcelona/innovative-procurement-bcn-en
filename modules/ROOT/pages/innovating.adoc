@@ -56,8 +56,8 @@ Promotes a cultural change within the Administration, shifting it towards more i
 The Europe 2020 strategy for smart, sustainable and inclusive growth promotes an economy based on knowledge and innovation, with a more effective use of resources, that is more competitive, with a high level of employment, and which supports social and territorial cohesion.
 Directive 2014/24 indicates in its Second Recital that public procurement plays a key role in the Europe 2020 strategy.
 
-TIP: *Under the European initiative Horizon 2020 initiative, funds have been made available so that the public and private sectors can reach sustainable growth and innovation goals.*
-*In the 2014- 2020 period, the EU is planning to invest 70.2 billion euros.*
+TIP: Under the European initiative Horizon 2020 initiative, funds have been made available so that the public and private sectors can reach sustainable growth and innovation goals.
+In the 2014- 2020 period, the EU is planning to invest 70.2 billion euros.
 
 This is because government expenditure represent 20% of European GDP, making them an important economic agent with a great capacity to influence the market.
 
@@ -80,7 +80,7 @@ In 2014 Barcelona was named the European Capital of Innovation.
 That same year, the European Union passed the new public procurement Directives.
 Europe is asking us to purchase innovative solutions to solve challenges that wouldn’t have an effective solution to our social and environmental issues in the 21st century without cutting edge technologies and research.
 
-TIP: *Research and innovation, including ecological and social innovation, are among the main drivers of future growth and are a central part of the Europe 2020 strategy*
+TIP: Research and innovation, including ecological and social innovation, are among the main drivers of future growth and are a central part of the Europe 2020 strategy.
 
 However, the European Commission’s vision of innovation is a linear process that starts with an idea, moves through different stages of maturity supported by technological centres, until finally reaching the market.
 

@@ -100,7 +100,7 @@ In short, new skills will be needed on these teams to guide these new procuremen
 There is a delicate balance between the responsibility of ensuring that the market knows exactly what the public requirements of a tender process are, and at the same time leaving enough space for new and different approaches to responding to these requirements.
 The City Council will work with initiatives that it thinks could serve as an example, with functional technical requirements based on performance, or which permit variation, two interesting ways of allowing for a certain amount of flexibility for bidding companies when they propose solutions.
 
-image::NewModelForRelations.png[image, align="center"]
+image::NewModelForRelations.png[image, align="center", width=100%]
 
 == The keys to success
 

@@ -32,7 +32,7 @@ Can our provider become our partner?
 
 Therefore, we have to structure our procurements around four pillars.
 
-[cols=",,,",]
+[cols=",,,", stripes=even, grid=cols, valign=top, options="header",]
 |===
 |Pillar I  |Pillar II |Pillar III |Pillar IV
 |Detect needs
