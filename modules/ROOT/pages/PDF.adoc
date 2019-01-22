@@ -10,8 +10,8 @@ include::{partialsdir}/README.adoc[tag=metadata]
 [.pdf-authors]
 _Authors_: {authors}.
 
-// [.pdf-authors]
-// _Reviewers_: {_reviewers}.
+[.pdf-authors]
+_Reviewers_: {_reviewers}.
 
 [.pdf-version]
 v{revnumber}, {revdate}
